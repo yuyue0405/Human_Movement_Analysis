@@ -1,0 +1,9 @@
+# 忽略虛擬環境資料夾
+venv/
+env/
+## idea
+.idea/*.xml
+.idea/.name
+
+## log
+logs/
