@@ -1,5 +1,5 @@
 # 忽略虛擬環境資料夾
-venv/
+hmvenv/
 env/
 ## idea
 .idea/*.xml
